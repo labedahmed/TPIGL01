@@ -6,7 +6,7 @@ public class VectorHelper {
      public int [] VectorH;
 		
 		 public  void TriaBulle(int tab[]) {
-				int longueur = tab.length;
+				int longueur = tab.length-8;
 				int tampon = 0;
 				boolean permut;
 		 
